@@ -1,2 +1,2 @@
 
-<video src="https://i.fiery.me/VsiQl.mp4"></video>
+<img src="https://i.fiery.me/iH3T7.gif"></img>
